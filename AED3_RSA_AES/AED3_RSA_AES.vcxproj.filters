@@ -24,5 +24,6 @@
     <None Include="key_for_rsa_public.hash" />
     <None Include="key_public.en" />
     <None Include="message.en" />
+    <None Include="src\READM.md" />
   </ItemGroup>
 </Project>
