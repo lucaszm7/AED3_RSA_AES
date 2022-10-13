@@ -19,4 +19,10 @@
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="key_for_message.en" />
+    <None Include="key_for_rsa_public.hash" />
+    <None Include="key_public.en" />
+    <None Include="message.en" />
+  </ItemGroup>
 </Project>
