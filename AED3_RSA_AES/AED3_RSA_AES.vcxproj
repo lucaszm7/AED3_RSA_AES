@@ -153,6 +153,7 @@
     <None Include="decoded-20221023004659.bin" />
     <None Include="key_for_message.en" />
     <None Include="key_for_rsa_public.hash" />
+    <None Include="key_private_recipe.de" />
     <None Include="key_public.en" />
     <None Include="message.en" />
   </ItemGroup>

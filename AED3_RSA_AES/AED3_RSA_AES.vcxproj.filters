@@ -27,5 +27,6 @@
     <None Include="decoded-20221023004659.bin">
       <Filter>Arquivos de Recurso</Filter>
     </None>
+    <None Include="key_private_recipe.de" />
   </ItemGroup>
 </Project>
